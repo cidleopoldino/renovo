@@ -1,0 +1,7 @@
+{
+  "name": "RENOVO: Corpo, Mente e Espírito",
+  "description": "A daily healing journey system that guides users through a structured, evidence-informed, and spiritually grounded wellness protocol.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
